@@ -1,0 +1,5 @@
+Flask==1.1.2
+Flask-Cors==3.0.10
+Pillow==8.2.0
+requests==2.25.1
+
